@@ -483,35 +483,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1017173705633178377, guid: c4f455495661341fab56fb18359d7b19,
-        type: 3}
-      propertyPath: m_TagString
-      value: Dead
-      objectReference: {fileID: 0}
-    - target: {fileID: 1832408699117171189, guid: c4f455495661341fab56fb18359d7b19,
-        type: 3}
-      propertyPath: m_TagString
-      value: Dead
-      objectReference: {fileID: 0}
     - target: {fileID: 2400236423823841269, guid: c4f455495661341fab56fb18359d7b19,
         type: 3}
       propertyPath: m_Name
       value: Ground
-      objectReference: {fileID: 0}
-    - target: {fileID: 2400236423823841269, guid: c4f455495661341fab56fb18359d7b19,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5032129376348827837, guid: c4f455495661341fab56fb18359d7b19,
-        type: 3}
-      propertyPath: m_TagString
-      value: Dead
-      objectReference: {fileID: 0}
-    - target: {fileID: 5244237268889012474, guid: c4f455495661341fab56fb18359d7b19,
-        type: 3}
-      propertyPath: m_TagString
-      value: Dead
       objectReference: {fileID: 0}
     - target: {fileID: 6806621114246181461, guid: c4f455495661341fab56fb18359d7b19,
         type: 3}
